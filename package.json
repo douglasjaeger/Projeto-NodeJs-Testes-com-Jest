@@ -1,0 +1,17 @@
+{
+  "name": "projeto_nodejs_e_testes_com_jest",
+  "version": "1.0.0",
+  "description": "Projeto nodejs e jest para curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Douglas Jaeger",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
